@@ -5,7 +5,7 @@
 .blink {
   height: 400px;
   width: 400px
-  background-color: #ccc;
+  background-color: #aaa;
   animation: pulse 1s infinite alternate;
 }
 @keyframes pulse {
