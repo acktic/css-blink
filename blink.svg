@@ -3,6 +3,8 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
 .blink {
+  height: 400px;
+  width: 400px
   background-color: #ccc;
   animation: pulse 1s infinite alternate;
 }
