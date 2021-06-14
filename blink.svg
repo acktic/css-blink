@@ -15,7 +15,7 @@
     }
 }
             </style>
-            <div class='blink'>
+            <div class='blink'></div>
         </div>
     </foreignObject>
 </svg>
